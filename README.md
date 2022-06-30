@@ -5,7 +5,12 @@
 
 - Many researchers are doing research of different types with overlapping methods. So there is a need to represent the field in a way that can help researchers locate and reuse similar work done by their peers.
 - We narrow down on a dataset involving meta-data of authors and their papers in the field of population modeling and thus create a framework to help authors find related work and partners in the domain. 
-We create networks representing author-coauthor connections, networks showcasing their research methods and category and a dashboard to give an easy-to-view visual overview of the domain
+- We create networks representing author-coauthor connections, networks showcasing their research methods and category and a dashboard to give an easy-to-view visual overview of the domain
+
+## TOOLS USED
+- Python
+- PowerBI
+- Microsoft Excel
 
 ## Data Visualization Framework
 
@@ -29,6 +34,7 @@ We create networks representing author-coauthor connections, networks showcasing
   - Geo-spatial
   - Topical
   - Network
+
 
 
 ## Category / Method based Relationship
