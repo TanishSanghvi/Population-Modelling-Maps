@@ -1,9 +1,15 @@
 # Population-Modelling-Maps
 
 
+## INSPIRATION
+
+- Working as Research Assistants under professors with similar interests, my colleague and I noticed the large amount of overlap between our work. 
+- We saw a huge potential among researchers to locate peers doing similar work and employing similar methodoligies and thus the opportunity to reuse work.
+
+
 ## ABOUT
 
-- Many researchers are doing research of different types with overlapping methods. So there is a need to represent the field in a way that can help researchers locate and reuse similar work done by their peers.
+- Today, many researchers are doing research of different types with overlapping methods. As such, there is a need to represent the field in a way that can help researchers locate and reuse similar work done by their peers.
 - We narrow down on a dataset involving meta-data of authors and their papers in the field of population modeling and thus create a framework to help authors find related work and partners in the domain. 
 - We create networks representing author-coauthor connections, networks showcasing their research methods and category and a dashboard to give an easy-to-view visual overview of the domain
 
